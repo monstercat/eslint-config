@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-monstercat",
+  "version": "1.0.0",
+  "description": "ESLint config for Monstercat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
