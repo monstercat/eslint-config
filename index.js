@@ -27,7 +27,7 @@ module.exports = {
     "no-labels": "error",
     "no-loop-func": "error",
     "no-magic-numbers": ["error", {
-      "ignore": [1, 0],
+      "ignore": [1, 0, -1, 1000],
       "ignoreArrayIndexes": true
     }],
     "no-multi-spaces": ["error", {
